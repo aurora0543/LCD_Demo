@@ -1,0 +1,15 @@
+*** Using Compiler 'V5.06 update 4 (build 422)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'LCD_Demo'
+compiling main.c...
+linking...
+LCD_Demo\LCD_Demo.axf: Error: L6218E: Undefined symbol FT5206_Init (referred from touch.o).
+LCD_Demo\LCD_Demo.axf: Error: L6218E: Undefined symbol FT5206_Scan (referred from touch.o).
+LCD_Demo\LCD_Demo.axf: Error: L6218E: Undefined symbol GT9147_Init (referred from touch.o).
+LCD_Demo\LCD_Demo.axf: Error: L6218E: Undefined symbol GT9147_Scan (referred from touch.o).
+LCD_Demo\LCD_Demo.axf: Error: L6218E: Undefined symbol OTT2001A_Init (referred from touch.o).
+LCD_Demo\LCD_Demo.axf: Error: L6218E: Undefined symbol OTT2001A_Scan (referred from touch.o).
+Not enough information to list image symbols.
+Finished: 1 information, 0 warning and 6 error messages.
+"LCD_Demo\LCD_Demo.axf" - 6 Error(s), 0 Warning(s).
+Target not created.
+Build Time Elapsed:  00:00:03
